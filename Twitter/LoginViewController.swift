@@ -12,9 +12,6 @@ class LoginViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        if UserDefaults.standard.bool(forKey: "userLoggedIn") == true {
-            self.performSegue(withIdentifier: "loginToHome", sender: self)
-        }
 
         // Do any additional setup after loading the view.
     }
