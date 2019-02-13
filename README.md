@@ -21,8 +21,10 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's is the latest preview of the application:
 
-<img src='https://github.com/mbh-codes/Twitter_Clone/blob/master/twitterGif_1.gif' title='Authentication Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/mbh-codes/Twitter_Clone/blob/master/twitterGif_0.gif' title='Content Walkthrough' width='' alt='Reloading content' />
+<img src='https://github.com/mbh-codes/Twitter_Clone/blob/master/twitterGif_2.gif' title='Version: 1.2'>
+
+<img src='https://github.com/mbh-codes/Twitter_Clone/blob/master/twitterGif_1.gif' title='Version: 1.1' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mbh-codes/Twitter_Clone/blob/master/twitterGif_0.gif' title='Version: 1.0' width='' alt='Reloading content' />
 
