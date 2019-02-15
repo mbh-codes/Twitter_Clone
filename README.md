@@ -10,9 +10,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
